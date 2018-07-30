@@ -1,0 +1,11 @@
+95dc204c8b435b86ac3555e446e96fad *DESCRIPTION
+b6011b65893ad483efd5473af620b67c *NAMESPACE
+b4955b9b4769b14c22e4caf064572441 *R/debugr.r
+9216f3e4f60f8ec1c8f843fe8fbca1db *README.md
+2390db2458d4b591dcf73f387a900f5b *build/vignette.rds
+ed88e78b6a067512c3d90edbb49cc864 *inst/doc/debugr.R
+a334f0b9b2c34259767cf44d31da4a43 *inst/doc/debugr.Rmd
+a1d0a1b4353d60ae2c9d4d219e72f469 *inst/doc/debugr.html
+798f9f539825cfa24fa6002d9c55b521 *man/debugmode.Rd
+eb309fe14d0aea21dd7135c5e60508c9 *man/dwatch.Rd
+a334f0b9b2c34259767cf44d31da4a43 *vignettes/debugr.Rmd
